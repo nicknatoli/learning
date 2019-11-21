@@ -1,0 +1,29 @@
+Congrats on making it this far!
+
+DISCLAIMER: I have not taken most of these classes. So, take my recomendations with a grain of salt.
+I just picked them based of my experiences learning, their descriptions/syllabi, and the reputation of the institution providing the class.
+
+#Reccomendations:
+
+https://www.coursera.org/specializations/python
+-------------------------------------------------------------------------------------------------------
+This is a series of 4 classes from Michigan that provide an introduction into programming using Python.
+I'd highly reccomend this series if you're an absolute beginner that is interested in learning Python.
+
+https://www.coursera.org/learn/cs-fundamentals-1
+-------------------------------------------------------------------------------------------------------
+If you're interested in learning the fundamentals in a more traditional way, then this might be the class for you.
+This class teaches the basics of object oriented programming using C++. 
+
+https://www.coursera.org/specializations/data-structures-algorithms
+-------------------------------------------------------------------------------------------------------
+This series of courses from UC San Diego seems to cover a lot of the important topics around data structures and algorithms.
+I'd reccomend either taking this entire series of courses or taking the data structures class and then taking the algorithms course provided by Stanford.
+
+https://www.coursera.org/specializations/algorithms
+-------------------------------------------------------------------------------------------------------
+This is an excellent series of courses from Stanford, however, I wouldn't reccomend this series to an absolute beginner.
+It's definitely worth visiting after you have a basic understanding of data structures.
+
+These courses should be plenty to get you started. 
+There are a ton of other topics that are super helpful but if you get through these and want to learn more I'll post another file with more reccomendations.
