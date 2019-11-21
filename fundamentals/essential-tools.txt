@@ -1,0 +1,22 @@
+Any of the beginner courses you take will surely discuss how to set up your development environment for that class. However, the reccomendations listed below should apply regardless of the langauge you're using.
+
+Editor
+--------------------------------------------------------------------------------------------------
+Regardless of the language you are using, you will need some program to edit those files. 
+There are a lot of editors to choose from but I highly reccomend Visual Studio Code.
+Visual Studio Code is a free code editor that is lightweight but has tons of customization options. 
+
+You can download it from here: https://code.visualstudio.com/
+
+Source Control:
+--------------------------------------------------------------------------------------------------
+Source control is extremely useful and something every developer should be familiar with. 
+It has a great number of benefits but most importantly, it essentially lets you save the state of your files so that you always have a safe point to return to when making changes.
+I highly reccomend using Git. There are other source control products available but Git is free and is an industry standard. Also, easily it hooks in to Github, the site you are reading this on.
+
+You can download it from here: https://git-scm.com/
+
+Git definitely has a bit of a learning curve but it's absolutely worth the effort.
+
+Here is a 30 minute crash course on git that should teach you just about everything you need to know for basic uses. 
+https://www.youtube.com/watch?v=SWYqp7iY_Tc
