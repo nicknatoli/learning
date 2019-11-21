@@ -1,3 +1,3 @@
 # learning 
 
-I created this repo to help a few friends of mine learn to program. 
+This repo is intended to be a starting point for people that want to learn to program without going to a university.
